@@ -19,7 +19,7 @@
 *
 *  Pick one up today in the adafruit shop!
 *  ------> http://www.adafruit.com/products/684
-*
+*adfadfasdf adsfasdf
 * These displays use SPI to communicate.
 *
 * Adafruit invests time and resources providing this open source code, 
